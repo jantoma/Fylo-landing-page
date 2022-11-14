@@ -155,7 +155,7 @@ nav .links {
    -moz-transition: 300ms ease;
    -ms-transition: 300ms ease;
    -o-transition: 300ms ease;
-   border-radius: 5px;
+  
 }
 
 
@@ -163,7 +163,7 @@ nav .links {
    background-color: hsl(224, 89%, 67%);
    color: hsl(240, 75%, 98%);
    box-shadow: 10px 10px 0 rgb(219, 219, 219);
-   cursor: pointer;
+  
 }
 
 /* End form */
@@ -211,7 +211,7 @@ nav .links {
    .hero .start input:nth-child(2) {
       width: 100%;
       padding: 3rem 2rem;
-      font-size: 13pt;
+     
       
    }
 
@@ -505,11 +505,7 @@ article .footer .avatar img {
    -moz-transition: 300ms ease;
    -ms-transition: 300ms ease;
    -o-transition: 300ms ease;
-   border-radius: 5px;
-   -webkit-border-radius: 5px;
-   -moz-border-radius: 5px;
-   -ms-border-radius: 5px;
-   -o-border-radius: 5px;
+  
 }
 
 #access .start input:nth-child(2):hover {
@@ -546,8 +542,6 @@ article .footer .avatar img {
       width: 100%;
       padding: 3rem 2rem;
       margin-top: 20px;
-      font-size: 13pt;
-
    }
 
    #access .wrapper {
